@@ -1,5 +1,5 @@
 # 👋 **Hi I'm Gustian Herlambang**
-I'm a Python language enthusiast. I teached practice in Computer Laboratory, Computer Science Department and also build a learning module since 2017.  
+I'm a Python language enthusiast. I taught practice in Computer Laboratory, Computer Science Department and also build a learning module since 2017.  
 
 ## 🌱 **I’m currently learning**
 * Front - End Website
