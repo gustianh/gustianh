@@ -1,10 +1,11 @@
 # 👋 **Hi I'm Gustian Herlambang**
 I'm a Python language enthusiast. My experience is preprocessing data, wrangling data and visualized data. I teached practice in Computer Laboratory, Computer Science Department and also build a learning module since 2017.  
 
-## 💼 **Where I am currently working on** 
-Computer Laboratory, Computer Science Department, Pakuan University as Assistant Practice
+## 💼 **Where I am currently do** 
+As an Educator in Computer Laboratory, Computer Science Department, Pakuan University as Assistant Practice
 
 ## 🌱 **I’m currently learning**
+* UI/UX, Front - End Website
 * Python Language
 * Machine Learning
 * Data Visualization
@@ -16,9 +17,11 @@ Computer Laboratory, Computer Science Department, Pakuan University as Assistant
 * HTML, CSS
 * Microsoft Excel
 * MySQL
+* Git/Trello
 
 ## 🖱 **What I'm interested in**
 * Machine Learning, Data Science
+* Web Development
 * Graphic Design
 
 <!--
