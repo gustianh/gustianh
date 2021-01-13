@@ -1,24 +1,17 @@
 # 👋 **Hi I'm Gustian Herlambang**
-I'm a Python language enthusiast. I taught practice in Computer Laboratory, Computer Science Department and also build a learning module since 2017.  
-
-## 🌱 **I’m currently learning**
-* Front - End Website
-* Python Language
-* Machine Learning
-* Data Visualization
+I'm a Python language enthusiast. 
 
 ## 💻 **Language and Tools**
 * Visual Studio Code
 * Orange, Jupyter Notebook, Google Colaboratory, WEKA
 * Python, Tensorflow, Scikit-learn, Pandas, Matplotlib, NumPy
-* HTML, CSS
-* Microsoft Excel
+* HTML, CSS, Bootstrap
+* Microsoft Office
 * MySQL
 * Git/Trello
 
 ## 🖱 **What I'm interested in**
-* Machine Learning, Data Science
-* Web Development
+* Data Science
 * Graphic Design
 
 <!--
