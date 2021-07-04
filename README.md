@@ -10,9 +10,8 @@ I'm a Python language enthusiast.
 * MySQL
 * Git/Trello
 
-## 🖱 **What I'm interested in**
-* Data Science
-* Graphic Design
+## **🌱 I’m currently learning**
+* Front - end Website
 
 <!--
 **gustianh/gustianh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
