@@ -13,7 +13,7 @@ I'm a Python language enthusiast.
 ## **🌱 I’m currently learning**
 * Front - end Website
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigustianh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustianh)](https://github.com/gustianh/github-readme-stats)
 
 
 <!--
