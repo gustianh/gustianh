@@ -13,6 +13,9 @@ I'm a Python language enthusiast.
 ## **🌱 I’m currently learning**
 * Front - end Website
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigustianh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **gustianh/gustianh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
