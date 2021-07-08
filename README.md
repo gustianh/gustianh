@@ -15,6 +15,8 @@ I'm a Python language enthusiast.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustianh)](https://github.com/gustianh/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustianh)](https://github.com/gustianh/github-readme-stats)
+
 
 <!--
 **gustianh/gustianh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
